@@ -13,7 +13,7 @@ public final class rx extends JavaPlugin {
         getCommand("msg").setExecutor(new PrivateMsg());
         getCommand("chat").setExecutor(new PrivateChatCreate());
         getCommand("pm").setExecutor(new PrivateChatMessage());
-
+    //Allah
     }
 
 }
