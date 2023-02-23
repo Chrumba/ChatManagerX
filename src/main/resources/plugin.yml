@@ -1,0 +1,22 @@
+name: Rx
+version: '${project.version}'
+main: rmsgx.rx.rx
+api-version: 1.18
+commands:
+  msg:
+    description: Bebriks
+    usage: /<command>
+    aliases:
+      - m
+      - pm
+  chat:
+    description: s
+    usage: /<command>
+    aliases:
+      - cc
+      - pc
+  pm:
+    description: s
+    usage: /<command>
+    aliases:
+      - p
